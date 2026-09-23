@@ -1,0 +1,21 @@
+{
+  "name": "spring-ai-alibaba-graph-demo-docs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Spring AI Alibaba Graph 学习实战文档站",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  },
+  "overrides": {
+    "vite": "6.4.3"
+  }
+}

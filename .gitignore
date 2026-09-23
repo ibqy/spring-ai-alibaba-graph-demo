@@ -1,0 +1,12 @@
+target/
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.idea/
+.vscode/
+*.iml
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store

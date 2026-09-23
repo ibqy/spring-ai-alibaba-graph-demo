@@ -1,0 +1,20 @@
+server:
+  address: 127.0.0.1
+  port: 8098
+
+spring:
+  application:
+    name: spring-ai-alibaba-graph-demo
+  jackson:
+    deserialization:
+      fail-on-unknown-properties: true
+    mapper:
+      allow-coercion-of-scalars: false
+
+logging:
+  level:
+    com.alibaba.cloud.ai.graph: warn
+
+graph:
+  model:
+    mode: ${GRAPH_MODEL_MODE:offline}
