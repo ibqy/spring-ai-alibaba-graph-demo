@@ -17,9 +17,9 @@
 | 项目 | 锁定版本 |
 | --- | --- |
 | Java | 21 |
-| Spring Boot | 3.5.8 |
-| Spring AI | 1.1.2 |
-| Spring AI Alibaba Graph / DashScope | 1.1.2.2 |
+| Spring Boot | 3.5.16 |
+| Spring AI | 1.1.8 |
+| Spring AI Alibaba Graph / DashScope | 1.1.2.4-security-fix |
 | 文档站 | VitePress |
 
 这些是本项目的验证基线，不宣称是最新版。升级依赖后需要重新验证状态合并、并行与审批恢复。

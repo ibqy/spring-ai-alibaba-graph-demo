@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.5.8</version>
+        <version>3.5.16</version>
         <relativePath/>
     </parent>
     <groupId>com.xb</groupId>
@@ -15,8 +15,8 @@
     <description>18 个由基础、高阶到业务闭环的原生 StateGraph 教学示例</description>
     <properties>
         <java.version>21</java.version>
-        <spring-ai.version>1.1.2</spring-ai.version>
-        <spring-ai-alibaba.version>1.1.2.2</spring-ai-alibaba.version>
+        <spring-ai.version>1.1.8</spring-ai.version>
+        <spring-ai-alibaba.version>1.1.2.4-security-fix</spring-ai-alibaba.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencyManagement>
