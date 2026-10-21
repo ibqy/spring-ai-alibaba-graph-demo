@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://ibqy.github.io/spring-ai-alibaba-graph-demo/"><img src="https://img.shields.io/badge/在线课件-2F6FEB?style=flat-square" alt="在线课件"></a>
+  <img src="https://img.shields.io/badge/Java-21-2266EE?style=flat-square" alt="Java 21">
+  <img src="https://img.shields.io/badge/Spring_Boot-3.5.16-6DB33F?style=flat-square" alt="Spring Boot 3.5.16">
+  <img src="https://img.shields.io/badge/StateGraph-18_课-8957E5?style=flat-square" alt="18 课">
+  <img src="https://img.shields.io/github/license/ibqy/spring-ai-alibaba-graph-demo?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/ibqy/spring-ai-alibaba-graph-demo?style=flat-square" alt="Stars">
+</p>
+
+> **课程位置** 阶段 3 · 图编排与可恢复工作流 — 第 1 站
+> [上一站 AgentScope](https://ibqy.github.io/agentscope-java-teaching-demo/) → **SAA Graph** → [下一站 LangGraph4j](https://ibqy.github.io/langgraph4j-teaching-demo/) ｜ [完整学习路线](https://ibqy.github.io/curriculum)
+
+---
+
 # Spring AI Alibaba Graph 学习实战
 
 18 个原生 `StateGraph` 示例，从第一张图到人工审批和业务闭环。每课提供可执行 Java 代码、自动化测试与详细中文学习文档。

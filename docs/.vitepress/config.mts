@@ -33,7 +33,8 @@ export default defineConfig({
     nav: [
       { text: '课程地图', link: '/#curriculum', activeMatch: '^/lessons/' },
       { text: '学习指南', link: '/guide/getting-started', activeMatch: '^/guide/' },
-      { text: '源代码', link: repository }
+      { text: '源代码', link: repository },
+      { text: '学习路径', link: 'https://ibqy.github.io/curriculum' }
     ],
     sidebar: [
       {
